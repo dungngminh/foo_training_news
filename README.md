@@ -1,4 +1,4 @@
-# newsapp
+# GDSC-DUT Flutter Training Dec 28
 
 A new Flutter project.
 
