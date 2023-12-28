@@ -2,7 +2,7 @@ import 'package:newsapp/models/source.dart';
 
 class Article {
   Article({
-    this.source,
+    required this.source,
     this.author,
     this.title,
     this.description,
@@ -11,8 +11,8 @@ class Article {
     this.publishedAt,
     this.content,
   });
-
-  final Source? source;
+  
+  final Source source;
   final String? author;
   final String? title;
   final String? description;

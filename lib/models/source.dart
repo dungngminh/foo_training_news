@@ -1,5 +1,3 @@
-
-
 class Source {
   Source({
     this.id,
